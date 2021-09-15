@@ -1,0 +1,18 @@
+
+
+@font-face {
+    font-family: 'Cartoon Madness Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cartoon Madness Regular'), url('Cartoon Madness.woff') format('woff');
+}
+header {
+    background-color:#ffcffdfc;
+}
+div.tc {
+    background-color:linen;
+}
+h1{
+    font-family: 'Cartoon Madness Regular';
+    font-weight: 400;
+}
